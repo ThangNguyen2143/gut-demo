@@ -5,7 +5,7 @@ function HeaderPublicLayout() {
         <a className="btn btn-ghost text-xl" href="/">
           <img
             alt="Logo"
-            src="/src/assets/Logo GUT(màu_xóa nền).png"
+            src="/Logo GUT(màu_xóa nền).png"
             width={100}
             height={100}
           />
